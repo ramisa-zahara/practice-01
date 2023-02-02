@@ -10,5 +10,5 @@ int main()
     else if(c >= 'A'  && c<='Z')
         cout<< "ALPHA\nIS CAPITAL" << "\n";
     else
-        cout<< "IS DIGIT" << "\n";
+        cout<< "IS DIGIT" << endl;
 }
